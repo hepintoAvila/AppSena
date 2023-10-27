@@ -17,7 +17,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "apexcharts": "^3.26.2",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "axios-mock-adapter": "^1.19.0",
     "bootstrap": "^5.0.2",
     "britecharts-react": "^0.5.4",
